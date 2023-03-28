@@ -2,7 +2,8 @@ import styled from 'styled-components';
 
 const Title = styled.h2`
   font-family: 'Lato', sans-serif;
-  margin: 100px 0 25px 0;
+  margin: 0 auto;
+  margin: 10px 0;
   font-size: 2.3em;
   text-align: center;
   letter-spacing: 7px;

@@ -2,7 +2,8 @@ import styled from 'styled-components';
 
 const Form = styled.form`
   width: 500px;
-  margin: 50px auto 100px auto;
+  margin: 0 auto;
+  margin-bottom: 40px;
   display: flex;
   flex-direction: column;
   gap: 15px;

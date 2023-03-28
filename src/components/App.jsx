@@ -70,11 +70,7 @@ export class App extends Component {
         ) : (
           <Notification>Contact list is empty =(</Notification>
         )}
-        <ToastContainer
-          position="top-center"
-          autoClose={3000}
-          theme="colored"
-        />
+        <ToastContainer position="top-right" autoClose={3000} theme="colored" />
       </>
     );
   }
